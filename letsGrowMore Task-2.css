@@ -1,0 +1,24 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  h1{
+    font-size: xx-large;
+  }
+  h1, h2{
+  color: blue;
+  }
+  h2{
+    font-size:xx-large;
+  }
+  button{
+    background-color:green;
+    font-color:black;
+  font-size:xx-large;
+  }
+  
+  li{
+    font-size: medium;
+    color: red;
+  }
+  
